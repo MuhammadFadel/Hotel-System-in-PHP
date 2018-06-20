@@ -1,0 +1,90 @@
+/*--contact start here--*/
+.contact {
+  padding: 5em 0em 5em 0em;
+}
+.contact-top {
+  text-align: center;
+  padding: 0em 0em 4em 0em;
+}
+.contact-top h2 {
+    font-size: 3em;
+    margin: 0em 0em 0.2em 0em;
+    color: #6F6F8C;
+    font-family: 'Aladin', cursive;
+}
+.contact-top p {
+  font-size: 1em;
+  color: #999;
+  width: 50%;
+  margin: 0 auto;
+  line-height: 1.8em;
+}
+.contact-left input[type="text"] {
+  font-size: 1em;
+  color: #737373;
+  width: 49%;
+  padding:0.7em 0.7em;
+  outline: none;
+  border: 1px solid #999;
+  
+}
+.contact-left textarea {
+  font-size: 1em;
+  color: #7C7C7C;
+  width: 100%;
+  padding:0.7em 0.7em;
+  outline: none;
+  resize: none;
+  height: 10em;
+  margin: 1em 0em 0em 0em;
+  border: 1px solid #999;
+ 
+}
+.contact-left  input.email {
+  margin: 0px 0px 0px 12px;
+}
+.contact-left input[type="submit"] {
+  font-size: 1em;
+  color: #FFF;
+  padding: 0.4em 1.5em;
+  background: #F5AF33;
+  border: none;
+  margin: 0.5em 0em 0em 0em;
+  outline: none;
+}
+.contact-left input[type="submit"]:hover {
+  background:#6F6F8C;
+  transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+.contact-left {
+  padding: 0px;
+}
+.contact-right h1 {
+  font-size: 2.5em;
+  color:#F5AF33;
+  margin: 0em 0em 0.5em 0em;
+  font-family: 'Aladin', cursive;
+}
+.contact-right  p {
+  font-size: 1em;
+  color:#737373;
+  line-height: 1.8em;
+}
+.contact-right  p a{
+  color: #7B7B7B;
+}
+.contact-right  p a:hover{
+  color:#F5AF33;
+  text-decoration:none;
+}
+.map iframe {
+  width: 100%;
+  height: 300px;
+}
+.map {
+  padding: 0em 0em 5em 0em;
+}
+/*--contact end here--*/

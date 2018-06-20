@@ -1,0 +1,243 @@
+
+/*--services start here--*/
+.services {
+    padding: 5em 0em;
+}
+.services-top {
+    text-align: center;
+    margin-bottom: 2.5em;
+}
+.services-top h1 {
+    font-size: 3em;
+    color: #6F6F8C;
+    margin-bottom: 0.3em;
+    font-family: 'Aladin', cursive;
+}
+.services-grid {
+    text-align: center;
+}
+.services-grid h4 {
+    font-size: 1.5em;
+    color: #000;
+    margin: 0.4em 0em;
+    font-family: 'Aladin', cursive;
+}
+.services-grid p{
+    font-size: 1em;
+    color:#737373;
+    margin: 0.3em 0em;
+    line-height:1.8em;
+ 
+}
+.ser-strip {
+    background: url(../..//media/images/ser-strip.jpg)no-repeat;
+    min-height: 350px;
+    background-size: cover;
+    padding: 5em 0em;
+    text-align: center;
+}
+.ser-strip-main h2 {
+    font-size: 3em;
+    color: #fff;
+    margin-top: 0.6em;
+    font-family: 'Aladin', cursive;
+}
+.ser-strip-main p {
+    font-size: 1.1em;
+    color: #fff;
+    width: 50%;
+    line-height: 1.8em;
+    margin: 1em auto 0em;
+}
+.features {
+  padding: 3em 0em 4em 0em;
+}
+.features-top {
+  text-align: center;
+  padding-bottom: 3em;
+}
+.features-top h3 {
+  font-size:3em;
+  color:#e9a820;
+  margin: 0em;
+  font-family: 'Aladin', cursive;
+}
+.features-top h4 {
+  font-size: 1.23em;
+  font-weight: 400;
+  color:#000;
+  margin: 0em;
+  width: 65%;
+  margin: 0 auto;
+  line-height: 1.5em;
+ font-family: 'Aladin', cursive;
+}
+.featur-grid h4 {
+  font-size: 1.23em;
+  font-weight: 400;
+  margin-bottom: 1em;
+  color:#6F6F8C;
+  font-family: 'Aladin', cursive;
+}
+.featur-grid ul {
+  padding: 0em;
+  list-style: none;
+}
+.featur-grid ul li {
+  margin: 0.5em 0em 0em 0em;
+}
+.featur-grid ul li a {
+  font-size: 1em;
+  font-weight: 400;
+  color:#737373;
+  text-decoration: none;
+  background:url(../..//media/images/arrows.png)no-repeat 0px 5px;
+  padding: 0px 0px 0px 22px;
+}
+.featur-grid ul li a:hover {
+  color: #000;
+  text-decoration:none;
+}
+/*--services end here--*/
+
+
+/*--single--*/
+.single {
+    padding: 5em 0;
+}
+.single-top h1 {
+    font-size: 1.5em;
+    padding-top: 0.8em;
+    color:#e9a820;
+    font-family: 'Aladin', cursive;
+}
+.lone-line p {
+    color:#737373;
+    font-size: 1em;
+    line-height: 1.8em;
+}
+.lone-line p span{
+    display:block;
+}
+ul.grid-blog li{
+	display: inline-block;
+}
+ul.grid-blog li a, ul.grid-blog li span{
+	text-decoration: none;
+	font-size: 1em;
+	color: #8A8A8A;	
+	display: inline-block;
+	margin: 0 1em 0 0;
+}
+ul.grid-blog li i{
+	margin: 0 5px 0 0;
+	color:#6F6F8C;	
+}
+ul.grid-blog {
+	 padding: 1.5em 0;
+    text-align: center;
+}
+.comment h3{
+	font-size: 2.5em;
+    color: #6F6F8C;
+    font-family: 'Aladin', cursive;
+}
+.media-body p {
+    color:#737373;
+    font-size: 1em;
+    line-height: 1.8em;
+	margin-top: 1em;
+}
+.media-left, .media > .pull-left {
+  padding-right: 22px;
+}
+.leave h2{
+	font-size: 2.5em;
+    color:#e9a820;
+    font-family: 'Aladin', cursive;
+}
+.single-grid input[type="text"],.single-grid textarea{
+	background: none;
+    padding: 0.6em 1em;
+    margin: 1em 0 0;
+    font-size: 1em;
+    color: #A9A9A9;
+	width: 100%;
+    outline: none;
+    border: 1px solid #a9a9a9;
+    -webkit-appearance: none;
+}
+.single-grid textarea{
+	resize:none;
+	height: 185px;	
+}
+.single-grid {
+    width: 60%;
+	padding-top: 1em;
+}
+.single-grid label {
+    font-weight: 400;
+    color:#6F6F8C;
+	margin-top:1em;
+    cursor: pointer;
+}
+.single-grid input[type="submit"] {
+    border: none;
+    outline: none;
+    background: #6F6F8C;
+    color: #fff;
+    padding: 0.5em 2em;
+}
+.single-grid input[type="submit"]:hover {
+    background:#e9a820;
+    color: #fff;
+     transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+.media {
+    margin-top: 25px;
+}
+.comment {
+    padding: 5em 0;
+}
+/*----*/
+p.smith {
+    float: left;
+    padding: 0;
+    font-size: 1em;
+}
+p.smith a {
+    text-decoration: none;
+    color:#6F6F8C;
+    font-size: 1.1em;
+	font-weight: 600;
+}
+p.smith span {
+    padding: 0 2em;
+    color:#737373;
+}
+p.reply {
+    float: right;
+    padding: 0;
+    color: #8A8A8A;
+    font-size: 1em;
+}
+p.reply a {
+    text-decoration: none;
+    color: #8A8A8A;
+}
+p.reply a:hover {
+    color:#6F6F8C;
+}
+.code-in {
+    padding-bottom: 1em;
+}
+p.reply a i{
+    padding-right:0.8em;
+}
+.media-1{
+	padding-left:7em;
+}
+/*--single--*/
